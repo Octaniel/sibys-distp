@@ -54620,7 +54620,7 @@ $2:function(a,b){if(b.b==null)return U.fq(null)
 else return D.bu(new M.a8g(this.a,a))},
 $S:10}
 M.a8g.prototype={
-$1:function(a){var s=H.b([Q.aE("Referencia"),Q.aE("Data inicio\nde pag."),Q.aE("Data limite\nde pag."),Q.aE("Montante\nminimo"),Q.aE("Montante\nmaximo"),Q.aE("Statu"),Q.aE("")],t.R),r=this.a,q=r.d,p=q.rp$
+$1:function(a){var s=H.b([Q.aE("Referencia"),Q.aE("Data inicio\nde pag."),Q.aE("Data limite\nde pag."),Q.aE("Montante\nminimo"),Q.aE("Montante\nmaximo"),Q.aE("Status"),Q.aE("")],t.R),r=this.a,q=r.d,p=q.rp$
 p.a.k(p)
 q=q.Q
 q.toString
