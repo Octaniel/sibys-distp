@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/images/meps.png": "77a54db2e27aac7e070c2bcef170af67",
 "assets/images/mnsg.png": "6a790bfac194da7df6082c28e1dffef6",
 "assets/images/reps.png": "dc333c5b284eb12c37e5ddc37547a4ce",
-"assets/NOTICES": "1642ea98d3643ddea0ccd2de25445e10",
+"assets/NOTICES": "ab289727508ee4a2b06a16145bc3670d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "a6b881e54b058c5345f904e2cd3ca2a9",
 "index.html": "e2e264deb5a68458762657f8aa69b775",
 "/": "e2e264deb5a68458762657f8aa69b775",
-"main.dart.js": "9361d7179b72820017b744f798008b76",
+"main.dart.js": "0f6e2919a21a32f7d8310c9c90b4aac6",
 "manifest.json": "e7615d4d9076182daa52822b537e7c0a"
 };
 
